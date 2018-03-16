@@ -2,9 +2,7 @@
 Giving React a Voice
 
 ## Abstract
-Whether it's Deep Thought, Hal 9000, or Jarvis, our vision of the future has always been about using our voice to control technology. And now, with Google Assistant, Siri, and Alexa, that future is closer than ever. So how can we, as React developers, play our part in shaping this future? See how I used React and a custom renderer to build an Alexa voice skill for React Rally.
-
-From newsbriefings to games to smart-home integrations, it's no wonder that Amazon's voice service has quickly become a household name. And with the Alexa Skills Kit, building a skill couldn't be easier. Or could it? As a React developer, I wondered could it be possible to leverage the power and simplicity of React to create Alexa Skills? Find out what I discovered.
+Whether it's Deep Thought, Hal 9000, or Jarvis, our vision of the future has always been about using our voice to control technology. And now, with Google Assistant, Siri, and Alexa, that future is closer than ever. So how can we, as React developers, play our part in shaping this future? See how I used React and a custom renderer to build an Alexa voice skill to enchance the React Rally experience.
 
 ## Details
 I'm going to build a custom React renderer that lets developers define an Alexa Skill using React and JSX. It will use the Alexa Skills Kit SDK for Node.js under the hood. Then I plan to build a voice skill specifically for React Rally that will allow attendees to ask about the day's schedule, get more info on a speaker, and more. For the talk, I want to bring an Amazon Echo up on stage and have it say hello to everyone and introduce my talk. I'll give a brief history about the progression of voice technologies. Then I'll show off the skill and talk about how I built it. If the wifi gods are in a good mood I'll be able to test the skill live using the Echo. Alternatively, I can tether to my phone and use the online Alexa simulator.
