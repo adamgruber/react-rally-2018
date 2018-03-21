@@ -17,4 +17,4 @@ I'm a huge fan of voice technologies and how far they've come. The way we use ou
 This talk would be my first conference talk which is both terrifying and exciting. I sat in the audience at last year's conference and came away feeling incredibly inspired. It made me want to get more involved in the community and push myself to try new things. I decided this year I want to pay it forward and hopefully inspire someone else to do the same.
 
 ## Bio
-Some info about me goes here.
+Adam Gruber spends his days working as a front-end developer at AWeber, building awesome tools for creating and managing email marketing campaigns. His nights are spent maintaining open source projects (mochawesome, sass-extract-js), playing guitar, and hanging out with his wife, son, and two dogs. Adam's earliest memories of coding involve copying BASIC programs out of 3-2-1 Contact magazines.
